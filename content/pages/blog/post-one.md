@@ -1,19 +1,19 @@
 ---
 type: PostLayout
-title: How I started a startup 🚀
+title: Join Our First Community Meetup! 🚀
 colors: colors-a
-date: '2021-06-28'
+date: '2024-01-15'
 author: content/data/team/doris-soto.json
 excerpt: >-
-  More context that may or may not be helpful
+  We're excited to announce our first community meetup in Warsaw. Join us for networking, knowledge sharing, and building connections with fellow Black tech professionals in Poland.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image1.jpg
-  altText: Post thumbnail image
+  altText: Community meetup announcement
 media:
   url: /images/post-2.jpg
-  altText: altText of the image
-  caption: Caption of the image
+  altText: Community gathering
+  caption: Black Tech Poland community members
   elementId: ''
   type: ImageBlock
 bottomSections:
@@ -38,44 +38,19 @@ bottomSections:
         textAlign: left
     showFeaturedImage: true
     showReadMoreLink: true
-  - type: ContactSection
+  - type: CtaSection
     backgroundSize: full
-    title: 'Stay up-to-date with my words ✍️'
+    title: 'Join our LinkedIn community! 💼'
+    text: "Connect with fellow Black tech professionals in Poland and stay updated with our latest events and opportunities."
     colors: colors-f
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      fields:
-        - name: firstName
-          label: First Name
-          hideLabel: true
-          placeholder: First Name
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: lastName
-          label: Last Name
-          hideLabel: true
-          placeholder: Last Name
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve my words
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
-      styles:
-        self:
-          textAlign: center
+    actions:
+      - type: Button
+        label: "Join LinkedIn Group 🚀"
+        url: "https://www.linkedin.com/groups/10152720/"
+        style: "primary"
+        showIcon: true
+        icon: "arrowRight"
+        iconPosition: "right"
     styles:
       self:
         height: auto
@@ -85,22 +60,62 @@ bottomSections:
           - pb-24
           - pr-4
           - pl-4
-        flexDirection: row
-        textAlign: left
+        flexDirection: col
+        textAlign: center
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+We're thrilled to announce our first community meetup in Warsaw! This is a milestone moment for Black Tech Poland as we bring together Black tech professionals from across Poland for an evening of networking, knowledge sharing, and community building.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+## Event Details
 
-## About Coding
+**Date:** February 15, 2024  
+**Time:** 6:00 PM - 9:00 PM  
+**Location:** Warsaw Tech Hub, ul. Marszałkowska 142  
+**Cost:** Free (RSVP required)
 
-> “Coding is the language of the future, and every girl should learn it. As I've learned from watching girls grow and learn in our classrooms, coding is fun, collaborative and creative.”
+## What to Expect
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+This inaugural meetup will feature:
 
-## Productivity
+- **Networking Session:** Connect with fellow Black tech professionals
+- **Panel Discussion:** "Navigating the Polish Tech Ecosystem" with industry leaders
+- **Career Workshop:** Resume building and interview preparation tips
+- **Community Building:** Share experiences and build lasting connections
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+## Who Should Attend
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+We welcome:
+- Black tech professionals currently working in Poland
+- Job seekers looking to break into the Polish tech industry
+- Students pursuing tech careers
+- Allies who believe in diversity and inclusion in tech
+
+## Registration
+
+Spaces are limited, so please RSVP early. You can register by:
+1. Joining our [LinkedIn Group](https://www.linkedin.com/groups/10152720/)
+2. Sending us an email at events@blacktechpoland.org
+3. Following our LinkedIn group for updates
+
+## About Our Mission
+
+This meetup represents the first step in our mission to connect and empower Black tech professionals across Poland. We're committed to building a thriving community where members can support each other, share knowledge, and create pathways for career growth.
+
+## Future Events
+
+This is just the beginning! We're planning:
+- Monthly networking meetups
+- Technical workshops and skill-building sessions
+- Career mentorship programs
+- Industry panel discussions
+- Online community events
+
+Stay tuned for more announcements and join our LinkedIn group to be the first to know about upcoming events!
+
+## Get Involved
+
+Interested in speaking at future events, hosting workshops, or contributing to our community? We'd love to hear from you! Reach out to us at info@blacktechpoland.org or join our LinkedIn group to connect with fellow members.
+
+---
+
+*Together, we're building a stronger, more inclusive tech community in Poland.*

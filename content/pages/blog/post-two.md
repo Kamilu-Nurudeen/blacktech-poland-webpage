@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: The Great Unbundling
+title: "Career Development Workshop: Navigating the Polish Tech Job Market"
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
@@ -9,18 +9,18 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 75
-date: '2021-11-03'
+date: '2024-01-20'
 author: content/data/team/doris-soto.json
 excerpt: >-
-  More context that may or may not be helpful
+  Join us for a comprehensive workshop on navigating the Polish tech job market. Learn from industry experts about resume building, interview preparation, and career advancement strategies.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image2.jpg
-  altText: Post thumbnail image
+  altText: Career development workshop
 media:
   url: /images/post-4.png
-  altText: altText of the image
-  caption: Caption of the image
+  altText: Workshop participants
+  caption: Career development workshop participants
   elementId: ''
   type: ImageBlock
 bottomSections:
@@ -45,44 +45,19 @@ bottomSections:
         textAlign: left
     showFeaturedImage: true
     showReadMoreLink: true
-  - type: ContactSection
+  - type: CtaSection
     backgroundSize: full
-    title: 'Stay up-to-date with my words ✍️'
+    title: 'Join our LinkedIn community! 💼'
+    text: "Connect with fellow Black tech professionals in Poland and stay updated with our latest events and opportunities."
     colors: colors-f
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      fields:
-        - name: firstName
-          label: First Name
-          hideLabel: true
-          placeholder: First Name
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: lastName
-          label: Last Name
-          hideLabel: true
-          placeholder: Last Name
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve my words
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
-      styles:
-        self:
-          textAlign: center
+    actions:
+      - type: Button
+        label: "Join LinkedIn Group 🚀"
+        url: "https://www.linkedin.com/groups/10152720/"
+        style: "primary"
+        showIcon: true
+        icon: "arrowRight"
+        iconPosition: "right"
     styles:
       self:
         height: auto
@@ -92,16 +67,95 @@ bottomSections:
           - pb-24
           - pr-4
           - pl-4
-        flexDirection: row
-        textAlign: left
+        flexDirection: col
+        textAlign: center
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+We're excited to announce our first career development workshop focused on navigating the Polish tech job market! This comprehensive session is designed specifically for Black tech professionals looking to advance their careers in Poland.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+## Workshop Details
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+**Date:** March 10, 2024  
+**Time:** 10:00 AM - 4:00 PM  
+**Location:** Warsaw Innovation Hub, ul. Krucza 50  
+**Cost:** Free for community members  
+**Format:** Hybrid (in-person + online)
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+## Workshop Agenda
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+### Morning Session (10:00 AM - 12:00 PM)
+- **Understanding the Polish Tech Ecosystem**
+  - Overview of major tech companies in Poland
+  - Cultural differences in the workplace
+  - Language requirements and expectations
+
+- **Resume Building for Polish Market**
+  - Polish CV format and standards
+  - Highlighting relevant experience
+  - Translation and localization tips
+
+### Afternoon Session (1:00 PM - 4:00 PM)
+- **Interview Preparation**
+  - Common interview questions in Polish tech
+  - Cultural interview expectations
+  - Salary negotiation strategies
+
+- **Networking and Professional Development**
+  - Building professional relationships
+  - LinkedIn optimization for Polish market
+  - Industry event participation
+
+## Featured Speakers
+
+- **Sarah Johnson** - Senior Developer at Allegro
+- **Michael Chen** - Tech Lead at Google Poland
+- **Aisha Osei** - HR Manager at Microsoft Poland
+- **David Thompson** - Career Coach specializing in tech
+
+## Who Should Attend
+
+This workshop is perfect for:
+- Black tech professionals new to Poland
+- Job seekers looking to break into the Polish tech industry
+- Professionals looking to advance their careers
+- Students preparing for tech careers in Poland
+
+## Registration
+
+Spaces are limited to ensure quality interaction. Please register by:
+1. Joining our [LinkedIn Group](https://www.linkedin.com/groups/10152720/)
+2. Emailing us at workshops@blacktechpoland.org
+3. Following our LinkedIn group for updates
+
+## What You'll Gain
+
+- Practical strategies for job hunting in Poland
+- Cultural insights for workplace success
+- Networking opportunities with industry professionals
+- Access to our community resources and mentorship programs
+
+## Follow-up Support
+
+After the workshop, participants will have access to:
+- One-on-one career coaching sessions
+- Resume review services
+- Mock interview practice
+- Ongoing mentorship opportunities
+
+## About Our Mission
+
+This workshop is part of our broader mission to support Black tech professionals in Poland. We believe that with the right resources and community support, every professional can thrive in the Polish tech ecosystem.
+
+## Future Workshops
+
+We're planning additional workshops on:
+- Technical skill development
+- Leadership and management
+- Entrepreneurship in tech
+- Work-life balance and integration
+
+Stay tuned for more announcements and join our LinkedIn group to be the first to know about upcoming events!
+
+---
+
+*Empowering Black tech professionals to succeed in Poland's growing tech ecosystem.*

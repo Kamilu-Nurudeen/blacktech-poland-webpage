@@ -1,5 +1,5 @@
 {
-    "name": "personal-site",
+    "name": "blacktech-poland-website",
     "version": "0.2.0",
     "scripts": {
         "dev": "next dev",

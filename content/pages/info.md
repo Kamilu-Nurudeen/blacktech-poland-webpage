@@ -14,15 +14,14 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      # Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+      # Our Mission
+
+      Black Tech Poland aims to connect and empower Black tech professionals across Poland. Our goal is to build a thriving community where members can support each other, share knowledge, and create pathways for career growth. We're also committed to increasing the visibility of Black tech talent in the Polish tech ecosystem and helping members navigate integration into the country, both professionally and socially.
 
     media:
       type: ImageBlock
       url: /images/about.jpg
-      altText: Hero image
+      altText: Black Tech Poland community
     styles:
       self:
         height: auto
@@ -52,28 +51,28 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: 'I worked with these folks:'
+    subtitle: 'Our Community Partners:'
     images:
       - type: ImageBlock
         url: /images/logo1.svg
-        altText: Logo one
-        caption: Logo one
+        altText: Tech company logo
+        caption: Tech company logo
       - type: ImageBlock
         url: /images/logo2.svg
-        altText: Logo two
-        caption: Logo two
+        altText: Startup logo
+        caption: Startup logo
       - type: ImageBlock
         url: /images/logo3.svg
-        altText: Logo three
-        caption: Logo three
+        altText: University logo
+        caption: University logo
       - type: ImageBlock
         url: /images/logo4.svg
-        altText: Logo four
-        caption: Logo four
+        altText: NGO logo
+        caption: NGO logo
       - type: ImageBlock
         url: /images/logo5.svg
-        altText: Logo five
-        caption: Logo five
+        altText: Community logo
+        caption: Community logo
     spacing: 3
     columns: 5
     aspectRatio: auto
@@ -101,58 +100,18 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: FeaturedItemsSection
-    subtitle: 'You can find me here:'
+    subtitle: 'Connect with us:'
     colors: colors-f
     items:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: GitHub
-            url: 'https://github.com/'
+            label: LinkedIn Group
+            url: 'https://www.linkedin.com/groups/10152720/'
         styles:
           self:
             textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: LinkedIn
-            url: 'https://www.linkedin.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Discord
-            url: 'https://discord.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Instagram
-            url: 'https://www.instagram.com/'
-        styles:
-          self:
-            textAlign: left
-    columns: 3
+    columns: 1
     spacingX: 120
     spacingY: 16
     styles:
@@ -177,24 +136,24 @@ sections:
         borderStyle: solid
   - type: LabelsSection
     colors: colors-f
-    subtitle: 'Skills:'
+    subtitle: 'Who we welcome:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: 'Black Tech Professionals'
       - type: Label
-        label: React
+        label: 'Job Seekers'
       - type: Label
-        label: Microsoft Office
+        label: 'Students'
       - type: Label
-        label: Next.js
+        label: 'Allies'
       - type: Label
-        label: Netlify
+        label: 'Developers'
       - type: Label
-        label: Pancakes
+        label: 'Designers'
       - type: Label
-        label: C++
+        label: 'Data Analysts'
       - type: Label
-        label: Swift
+        label: 'DevOps Engineers'
   - type: DividerSection
     styles:
       self:
@@ -211,7 +170,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      [info@blacktechpoland.org](mailto:info@blacktechpoland.org)
   - type: DividerSection
     styles:
       self:
@@ -227,44 +186,52 @@ sections:
     colors: colors-f
     items:
       - type: FeaturedItem
-        subtitle: 'Experience:'
+        subtitle: 'Our Events:'
         text: |-
-          **Current**
+          **Workshops**
+          * Hands-on technical workshops
+          * Career development sessions
+          * Skill-building workshops
 
-          * freelance @freelance.me
+          **Tech Talks**
+          * Industry expert presentations
+          * Panel discussions
+          * Knowledge sharing sessions
 
-          **2018-2021**
+          **Networking**
+          * Monthly meetups
+          * Online community events
+          * Professional networking
 
-          * fullstack at this startup
-
-          **2015**
-
-          * senior front-end at this place
-
-          **2013**
-
-          * intern developer at a big company
-
-          **2011**
-
-          * flipping burgers
+          **Mentorship**
+          * Career guidance
+          * Integration support
+          * Professional development
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
-        subtitle: 'Education:'
+        subtitle: 'Our Goals:'
         text: |-
-          **2015-2018**
+          **Community Building**
+          * Connect Black tech professionals
+          * Create supportive networks
+          * Foster collaboration
 
-          * ba computer sciense at a semi fancy school
+          **Visibility**
+          * Increase representation
+          * Showcase Black talent
+          * Promote diversity
 
-          **2014**
+          **Integration Support**
+          * Navigate Polish tech ecosystem
+          * Professional development
+          * Social integration
 
-          * react certificate somewhere
-
-          **2011**
-
-          * my highschool
+          **Knowledge Sharing**
+          * Technical expertise
+          * Career insights
+          * Industry knowledge
         styles:
           self:
             textAlign: left
@@ -292,51 +259,19 @@ sections:
           - pr-4
         borderWidth: 1
         borderStyle: solid
-  - type: ContactSection
+  - type: CtaSection
     backgroundSize: full
-    title: "Let’s talk... \U0001F4AC"
+    title: "Join our LinkedIn community! 💼"
+    text: "Connect with fellow Black tech professionals in Poland and stay updated with our latest events and opportunities."
     colors: colors-f
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      fields:
-        - name: firstName
-          label: First Name
-          hideLabel: true
-          placeholder: First Name
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: lastName
-          label: Last Name
-          hideLabel: true
-          placeholder: Last Name
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Tell me about your project
-          isRequired: true
-          width: full
-          type: TextareaFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve my words
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
-      styles:
-        self:
-          textAlign: center
+    actions:
+      - type: Button
+        label: "Join LinkedIn Group 🚀"
+        url: "https://www.linkedin.com/groups/10152720/"
+        style: "primary"
+        showIcon: true
+        icon: "arrowRight"
+        iconPosition: "right"
     styles:
       self:
         height: auto
@@ -351,6 +286,6 @@ sections:
           - pb-12
           - pr-4
           - pl-4
-        flexDirection: row
-        textAlign: left
+        flexDirection: col
+        textAlign: center
 ---

@@ -1,6 +1,6 @@
 ---
 type: ProjectFeedLayout
-title: Projects
+title: Events & Activities
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
@@ -27,8 +27,8 @@ projectFeed:
         - pb-12
 topSections:
   - type: HeroSection
-    title: Projects
-    subtitle: ''
+    title: Events & Activities
+    subtitle: 'Join our community events, workshops, and activities designed to connect, empower, and support Black tech professionals in Poland.'
     actions: []
     colors: colors-f
     backgroundSize: full
@@ -45,51 +45,19 @@ topSections:
         flexDirection: row
         textAlign: left
 bottomSections:
-  - type: ContactSection
+  - type: CtaSection
     backgroundSize: full
-    title: "Let’s talk... \U0001F4AC"
+    title: "Join our LinkedIn community! 💼"
+    text: "Connect with fellow Black tech professionals in Poland and stay updated with our latest events and opportunities."
     colors: colors-f
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      fields:
-        - name: firstName
-          label: First Name
-          hideLabel: true
-          placeholder: First Name
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: lastName
-          label: Last Name
-          hideLabel: true
-          placeholder: Last Name
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Tell me about your project
-          isRequired: true
-          width: full
-          type: TextareaFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve my words
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
-      styles:
-        self:
-          textAlign: center
+    actions:
+      - type: Button
+        label: "Join LinkedIn Group 🚀"
+        url: "https://www.linkedin.com/groups/10152720/"
+        style: "primary"
+        showIcon: true
+        icon: "arrowRight"
+        iconPosition: "right"
     styles:
       self:
         height: auto
@@ -104,6 +72,6 @@ bottomSections:
           - pb-24
           - pr-4
           - pl-4
-        flexDirection: row
-        textAlign: left
+        flexDirection: col
+        textAlign: center
 ---

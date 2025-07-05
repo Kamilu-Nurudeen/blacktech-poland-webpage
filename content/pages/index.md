@@ -14,12 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      Connecting and empowering Black tech professionals across Poland
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Black Tech Poland is a community-driven NGO dedicated to building a thriving ecosystem where Black tech professionals can support each other, share knowledge, and create pathways for career growth. We're committed to increasing the visibility of Black tech talent in the Polish tech ecosystem.
     styles:
       self:
         height: auto
@@ -43,8 +40,8 @@ sections:
     elementId: ''
     actions:
       - type: Link
-        label: See all projects
-        url: /projects
+        label: See all events
+        url: /events
     showDate: false
     showDescription: true
     showFeaturedImage: true
@@ -64,12 +61,12 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
-    subtitle: Projects
+    subtitle: Upcoming Events
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
     variant: variant-d
-    subtitle: Featured Posts
+    subtitle: Community News
     showFeaturedImage: false
     actions:
       - type: Link
@@ -92,51 +89,19 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
-  - type: ContactSection
+  - type: CtaSection
     colors: colors-f
     backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      fields:
-        - name: firstName
-          label: First Name
-          hideLabel: true
-          placeholder: First Name
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: lastName
-          label: Last Name
-          hideLabel: true
-          placeholder: Last Name
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: 1/2
-          type: EmailFormControl
-        - name: address
-          label: Address
-          hideLabel: true
-          placeholder: Address
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve updates
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
-      styles:
-        self:
-          textAlign: center
+    title: "Join our LinkedIn community! 💼"
+    text: "Connect with fellow Black tech professionals in Poland and stay updated with our latest events and opportunities."
+    actions:
+      - type: Button
+        label: "Join LinkedIn Group 🚀"
+        url: "https://www.linkedin.com/groups/10152720/"
+        style: "primary"
+        showIcon: true
+        icon: "arrowRight"
+        iconPosition: "right"
     styles:
       self:
         height: auto
@@ -151,6 +116,6 @@ sections:
           - pb-24
           - pr-4
           - pl-4
-        flexDirection: row
-        textAlign: left
+        flexDirection: col
+        textAlign: center
 ---

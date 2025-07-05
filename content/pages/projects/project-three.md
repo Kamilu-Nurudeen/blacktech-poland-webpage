@@ -1,29 +1,195 @@
 ---
 type: ProjectLayout
-title: One more cool project
+title: Technical Skills Workshop Series
 colors: colors-a
-date: '2022-01-22'
-client: Awesome client
+date: '2024-01-10'
+client: Black Tech Poland Community
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  Our comprehensive technical skills workshop series covers modern development practices, emerging technologies, and industry best practices to help Black tech professionals stay competitive in the Polish market.
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
-  altText: Project thumbnail image
+  altText: Technical workshop
 media:
   type: ImageBlock
   url: /images/bg3.jpg
-  altText: Project image
+  altText: Workshop participants coding
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+Our Technical Skills Workshop Series is designed to help Black tech professionals develop and enhance their technical capabilities while staying current with industry trends and best practices in the Polish tech ecosystem.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+## Workshop Series Overview
 
-> “Everybody should learn to program a computer, because it teaches you how to think.”
+The series covers a wide range of technical topics, from fundamental programming concepts to cutting-edge technologies. Each workshop is hands-on, interactive, and designed to provide practical skills that can be immediately applied in the workplace.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+## Workshop Categories
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+### Frontend Development
+- **React & Next.js Mastery**
+  - Advanced React patterns and hooks
+  - Next.js 13+ features and optimization
+  - State management with Redux and Zustand
+  - Performance optimization techniques
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+- **Modern CSS & Styling**
+  - CSS Grid and Flexbox mastery
+  - Tailwind CSS and utility-first design
+  - CSS-in-JS solutions
+  - Responsive design best practices
+
+### Backend Development
+- **Node.js & Express**
+  - RESTful API development
+  - Authentication and authorization
+  - Database integration (MongoDB, PostgreSQL)
+  - API testing and documentation
+
+- **Python & Django**
+  - Django framework fundamentals
+  - Django REST framework
+  - Database modeling and migrations
+  - Deployment and scaling strategies
+
+### DevOps & Cloud
+- **Docker & Kubernetes**
+  - Containerization fundamentals
+  - Kubernetes orchestration
+  - CI/CD pipeline implementation
+  - Cloud deployment strategies
+
+- **AWS & Azure**
+  - Cloud infrastructure management
+  - Serverless architecture
+  - Monitoring and logging
+  - Cost optimization
+
+### Data Science & AI
+- **Machine Learning Fundamentals**
+  - Python for data science
+  - Scikit-learn and TensorFlow
+  - Data preprocessing and feature engineering
+  - Model evaluation and deployment
+
+- **Data Visualization**
+  - D3.js and Chart.js
+  - Python visualization libraries
+  - Interactive dashboards
+  - Storytelling with data
+
+## Workshop Format
+
+### Structure
+- **Duration:** 4-6 hours per workshop
+- **Format:** Hybrid (in-person + virtual)
+- **Group Size:** 15-25 participants
+- **Hands-on:** 70% practical, 30% theory
+
+### Learning Approach
+- Interactive coding sessions
+- Real-world project examples
+- Peer collaboration and code reviews
+- Industry expert guest speakers
+- Follow-up support and resources
+
+## Upcoming Workshops
+
+### Q1 2024
+- **January:** React Advanced Patterns
+- **February:** Python for Data Science
+- **March:** Docker & Kubernetes Basics
+
+### Q2 2024
+- **April:** AWS Cloud Fundamentals
+- **May:** Machine Learning with Python
+- **June:** Full-Stack Development
+
+### Q3 2024
+- **July:** DevOps Best Practices
+- **August:** AI/ML in Production
+- **September:** Advanced JavaScript
+
+## Workshop Benefits
+
+### Skill Development
+- Hands-on experience with modern technologies
+- Industry best practices and standards
+- Portfolio project development
+- Certification preparation support
+
+### Career Advancement
+- Technical interview preparation
+- Resume enhancement opportunities
+- Networking with industry professionals
+- Job placement assistance
+
+### Community Building
+- Peer learning and collaboration
+- Knowledge sharing opportunities
+- Mentorship connections
+- Industry networking events
+
+## Registration & Pricing
+
+### Community Members
+- **Individual Workshops:** Free
+- **Series Pass:** Free
+- **Materials:** Provided at no cost
+- **Certificates:** Available upon completion
+
+### Non-Members
+- **Individual Workshops:** 50 PLN
+- **Series Pass:** 200 PLN
+- **Materials:** Included
+- **Certificates:** Available upon completion
+
+## Prerequisites
+
+Most workshops are designed for intermediate-level developers, but we offer:
+- **Beginner Tracks:** For those new to programming
+- **Advanced Tracks:** For experienced developers
+- **Assessment:** Pre-workshop skill evaluation
+- **Preparation:** Recommended reading and resources
+
+## Workshop Leaders
+
+Our workshops are led by:
+- Senior developers from top Polish tech companies
+- Industry experts and consultants
+- Academic professionals
+- Community members with specialized expertise
+
+## Success Stories
+
+Our workshop series has helped:
+- 100+ professionals enhance their technical skills
+- 75+ participants secure new job opportunities
+- 50+ individuals advance in their current roles
+- 25+ community members become workshop leaders
+
+## Get Involved
+
+### Attend Workshops
+- Register for upcoming sessions
+- Join our Discord for updates
+- Participate in pre-workshop discussions
+
+### Lead Workshops
+- Share your expertise
+- Develop teaching skills
+- Contribute to community growth
+
+### Support the Series
+- Volunteer as a workshop assistant
+- Help with logistics and coordination
+- Provide feedback and suggestions
+
+## Contact Information
+
+For workshop inquiries:
+- Email: workshops@blacktechpoland.org
+- Discord: Join our technical channel
+- Website: Register through our events page
+
+---
+
+*Building technical excellence in the Black tech community.*

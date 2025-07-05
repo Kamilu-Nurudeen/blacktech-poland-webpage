@@ -1,6 +1,6 @@
 ---
 type: PostFeedLayout
-title: Blog
+title: Community News
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
@@ -28,8 +28,8 @@ postFeed:
         - pb-12
 topSections:
   - type: HeroSection
-    title: Blog
-    subtitle: ''
+    title: Community News & Events
+    subtitle: 'Stay updated with the latest news, events, and opportunities from the Black Tech Poland community.'
     actions: []
     colors: colors-f
     backgroundSize: full

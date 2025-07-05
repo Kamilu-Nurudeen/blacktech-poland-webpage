@@ -1,29 +1,139 @@
 ---
 type: ProjectLayout
-title: Another cool project
+title: Mentorship Program
 colors: colors-a
-date: '2021-12-20'
-client: Awesome client
+date: '2024-01-20'
+client: Black Tech Poland Community
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  Our comprehensive mentorship program connects experienced Black tech professionals with newcomers to provide guidance, support, and career development opportunities in the Polish tech ecosystem.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
-  altText: Project thumbnail image
+  altText: Mentorship program
 media:
   type: ImageBlock
   url: /images/bg2.jpg
-  altText: Project image
+  altText: Mentorship session
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+Our mentorship program is designed to support Black tech professionals at every stage of their career journey in Poland. Whether you're just starting out, looking to advance, or navigating a career transition, our mentors are here to guide you.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+## Program Overview
 
-> “Everybody should learn to program a computer, because it teaches you how to think.”
+The Black Tech Poland Mentorship Program pairs experienced professionals with mentees for structured, long-term career development relationships. Our mentors come from various backgrounds and industries, providing diverse perspectives and insights.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+## Program Structure
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+### Mentorship Tracks
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+**Career Development Track**
+- Resume and interview preparation
+- Career planning and goal setting
+- Skill development guidance
+- Industry insights and networking
+
+**Technical Skills Track**
+- Code review and best practices
+- Technology stack recommendations
+- Project portfolio development
+- Technical interview preparation
+
+**Leadership Track**
+- Management skills development
+- Team leadership strategies
+- Communication and presentation skills
+- Strategic thinking and decision making
+
+**Integration Support Track**
+- Cultural adaptation guidance
+- Language learning resources
+- Social integration support
+- Work-life balance strategies
+
+## Mentor Profiles
+
+Our mentors include:
+- Senior developers and tech leads
+- Product managers and project managers
+- Entrepreneurs and startup founders
+- HR professionals and recruiters
+- Industry experts and consultants
+
+## Program Benefits
+
+### For Mentees
+- Personalized career guidance
+- Industry insights and connections
+- Skill development support
+- Confidence building
+- Networking opportunities
+
+### For Mentors
+- Leadership development
+- Community contribution
+- Professional growth
+- Networking with other mentors
+- Giving back to the community
+
+## Application Process
+
+### For Mentees
+1. Complete the application form
+2. Attend an orientation session
+3. Get matched with a suitable mentor
+4. Begin your mentorship journey
+
+### For Mentors
+1. Submit mentor application
+2. Complete mentor training
+3. Get matched with mentees
+4. Start mentoring relationships
+
+## Program Timeline
+
+**Duration:** 6-month program cycles  
+**Meeting Frequency:** Bi-weekly sessions  
+**Format:** In-person and virtual options  
+**Support:** Ongoing program coordination
+
+## Success Stories
+
+Our mentorship program has helped:
+- 50+ professionals advance their careers
+- 30+ mentees secure new job opportunities
+- 25+ participants develop leadership skills
+- 40+ individuals improve their technical skills
+
+## Testimonials
+
+> "My mentor helped me navigate the Polish job market and secure a position at a top tech company. The guidance was invaluable." - Sarah K., Software Developer
+
+> "Through the mentorship program, I gained confidence in my leadership abilities and was promoted to team lead within 6 months." - Michael T., Product Manager
+
+## Get Involved
+
+### Become a Mentee
+- Open to Black tech professionals at all levels
+- No experience required
+- Free for community members
+
+### Become a Mentor
+- Experienced professionals welcome
+- Training and support provided
+- Flexible time commitment
+
+### Support the Program
+- Volunteer as a program coordinator
+- Help with event organization
+- Contribute to program development
+
+## Contact Us
+
+Interested in joining our mentorship program? Contact us at:
+- Email: mentorship@blacktechpoland.org
+- Discord: Join our community channel
+- Website: Fill out the application form
+
+---
+
+*Empowering the next generation of Black tech leaders in Poland.*
