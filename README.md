@@ -1,6 +1,6 @@
 # Black Tech Poland Website
 
-![Black Tech Poland](https://assets.stackbit.com/docs/personal-nextjs-starter-thumb.png)
+![Black Tech Poland](./public/images/BTPoland-landingpage.png)
 
 This is the official website for Black Tech Poland, a community-driven NGO dedicated to connecting and empowering Black tech professionals across Poland. The website is built with Next.js, Tailwind CSS, and features a visual editor for easy content management.
 

@@ -5,8 +5,13 @@
         "type": "Header",
         "headerVariant": "variant-c",
         "isSticky": false,
-        "title": "Personal",
-        "isTitleVisible": true,
+        "title": "Black Tech Poland",
+        "isTitleVisible": false,
+        "logo": {
+            "type": "ImageBlock",
+            "url": "/images/logo-black-gold.png",
+            "altText": "Black Tech Poland logo"
+        },
         "primaryLinks": [
             {
                 "type": "Link",
